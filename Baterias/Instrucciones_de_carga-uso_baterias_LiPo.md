@@ -1,4 +1,4 @@
-# Instrucciones de uso
+# Indice
 
 ## Componentes para cargar o usar la baterias
 
