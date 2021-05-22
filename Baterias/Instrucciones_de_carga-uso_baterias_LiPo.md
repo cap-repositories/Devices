@@ -14,6 +14,6 @@ En la siguiente se encuentran los componentes necesarios para cargar o usar las 
 6. Conector T-Deans
 
 ## Instrucciónes para cargar las baterias
-Para cargar las baterias necesitara los componentes del **1 al 5**, siga las instrucciones del manual de carga
+Para cargar las baterias necesitara los componentes del **1 al 5**, siga las instrucciones del [manual de carga](https://github.com/cap-repositories/Devices/edit/main/Baterias/manual_carga.md)
 ## Instrucciones para usar las baterias
-Para cargar las baterias necesitara los componentes **1 y 6**, siga las instrucciones del manual de uso
+Para cargar las baterias necesitara los componentes **1 y 6**, siga las instrucciones del [manual de uso](https://github.com/cap-repositories/Devices/edit/main/Baterias/manual_uso.md)
