@@ -14,5 +14,5 @@ midiendo la temperatura a través de una resistencia NTC.
 
 ## Notas
 + El circuito de control ha sido probado con una resistencia NTC 100K 3950 y una resistencia de calor de 12V
-+ El circuito cuenta con un led que se enciende cuando la salida de **A3** es 0 (logico) y se apaga cuando la salida es 1 (logico), esto quiere decir que el MOSFET se activa con un 0 y se habilida con un 1.
++ El circuito cuenta con un led que se enciende cuando la salida de **A3** es 0 (logico) y se apaga cuando la salida es 1 (logico), esto quiere decir que el MOSFET se activa con un 0 y se desactiva con un 1.
 + El esquematico del circuito se encuentra en [EasyEDA](https://easyeda.com/michael801898/module_temp_control_cap_copy)
